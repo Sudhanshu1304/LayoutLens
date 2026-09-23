@@ -114,7 +114,3 @@ Stay updated and connect for any queries or contributions:
 If you find this tool useful, please consider giving it a ⭐ on GitHub. Your support is greatly appreciated!
 
 Happy Extracting!
-
-```
-
-```
