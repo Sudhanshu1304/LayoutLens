@@ -6,7 +6,6 @@ An advanced Document AI pipeline that converts complex document images into stru
   <img src="images/thumbnail.png" alt="Upload a document image" width="100%">
 </div>
 
-
 ## 📖 Overview
 
 LayoutLens bridges the gap between raw visual documents and structured, machine-readable data. Unlike standard OCR tools that flatten text into a single continuous stream, LayoutLens acts as a spatial parser. It translates whole document images into precise HTML, maintaining the structural integrity, visual hierarchy, and physical placement of the original page.
@@ -38,7 +37,7 @@ Ensure you are using **Python 3.11 or 3.12**.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/layout-lens.git
+git clone [https://github.com/yourusername/layout-lens.git](https://github.com/yourusername/layout-lens.git)
 cd layout-lens
 
 # Create and activate a virtual environment
@@ -90,9 +89,32 @@ layout-lens/
 
 ```
 
-## 📝 Author & License
+## 🤝 Contributions
 
-Developed and maintained by Sudhanshu Pandey.
+Contributions are welcome! Please fork the repository and submit a pull request with your improvements or new features.
 
-This project is licensed under the [MIT License](https://www.google.com/search?q=LICENSE&utm_source=gemini).
+## 📝 License
 
+This project is licensed under the MIT License.
+
+---
+
+## 💬 Connect
+
+Stay updated and connect for any queries or contributions:
+
+* **GitHub**: [Sudhanshu1304](https://github.com/Sudhanshu1304?utm_source=gemini)
+* **LinkedIn**: [Sudhanshu Pandey](https://www.linkedin.com/in/sudhanshu-pandey-847448193/?utm_source=gemini)
+* **Medium**: [@sudhanshu.dpandey](https://medium.com/@sudhanshu.dpandey?utm_source=gemini)
+
+---
+
+## ⭐ Support
+
+If you find this tool useful, please consider giving it a ⭐ on GitHub. Your support is greatly appreciated!
+
+Happy Extracting!
+
+```
+
+```
